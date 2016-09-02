@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6345C9FE-B00D-434C-8F8D-0D6E46D2E6DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BiP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>320AF507E1A3D96663D4A50D4EB5D9991968E65B</key>
+		<string>https://github.com/LLK/Build-in-Progress-iOS-App</string>
+		<key>A815534DE28A43757D6F73F934A957BE0299AF96</key>
+		<string>https://github.com/LLK/Build-in-Progress-Mobile</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BIP/BiP.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>320AF507E1A3D96663D4A50D4EB5D9991968E65B</key>
+		<string>../..</string>
+		<key>A815534DE28A43757D6F73F934A957BE0299AF96</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LLK/Build-in-Progress-iOS-App</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>320AF507E1A3D96663D4A50D4EB5D9991968E65B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A815534DE28A43757D6F73F934A957BE0299AF96</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>320AF507E1A3D96663D4A50D4EB5D9991968E65B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Build-in-Progress-iOS-App</string>
+		</dict>
+	</array>
+</dict>
+</plist>

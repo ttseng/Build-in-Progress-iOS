@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "320AF507E1A3D96663D4A50D4EB5D9991968E65B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "320AF507E1A3D96663D4A50D4EB5D9991968E65B" : 0,
+    "A815534DE28A43757D6F73F934A957BE0299AF96" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6345C9FE-B00D-434C-8F8D-0D6E46D2E6DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "320AF507E1A3D96663D4A50D4EB5D9991968E65B" : "Build-in-Progress-iOS-App",
+    "A815534DE28A43757D6F73F934A957BE0299AF96" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BiP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BIP\/BiP.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LLK\/Build-in-Progress-iOS-App",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "320AF507E1A3D96663D4A50D4EB5D9991968E65B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LLK\/Build-in-Progress-Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A815534DE28A43757D6F73F934A957BE0299AF96"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+PODS:
+  - AWSCognito (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSCognitoSync (2.2.0):
+    - AWSCognito (= 2.2.0)
+    - AWSCore (= 2.2.0)
+  - AWSCore (2.2.0)
+  - AWSS3 (2.2.0):
+    - AWSCore (= 2.2.0)
+  - PBJVision (0.4.2)
+  - Reachability (3.2)
+  - youtube-ios-player-helper (0.1.3)
+  - YTVimeoExtractor (0.1.0)
+
+DEPENDENCIES:
+  - AWSCognito
+  - AWSCognitoSync
+  - AWSS3
+  - PBJVision
+  - Reachability (~> 3.1)
+  - youtube-ios-player-helper (~> 0.1.1)
+  - YTVimeoExtractor
+
+SPEC CHECKSUMS:
+  AWSCognito: d351a9e42e23747bb7e5bae37c62af38008d2bd0
+  AWSCognitoSync: e17521bc994631896d8891006986ac0f2bf20cfe
+  AWSCore: 36712cbe827a50b81f1660349e0c202339797f23
+  AWSS3: 5efcdff6010353fe53ef065be7760d60419c65b1
+  PBJVision: fe43c9a58bb1c1277d16fd802fa836d25e034a45
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  youtube-ios-player-helper: fccae0f10449976a025a95328e3c42ab521f93cb
+  YTVimeoExtractor: 4d133a68951cc50c920111a22c6e104f0ff71fd0
+
+COCOAPODS: 0.36.3
