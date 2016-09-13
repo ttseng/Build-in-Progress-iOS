@@ -1,21 +1,28 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "320AF507E1A3D96663D4A50D4EB5D9991968E65B",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0020D35D1497CE0114881FE8DB6A308BEF629AF6",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "320AF507E1A3D96663D4A50D4EB5D9991968E65B" : 0,
+    "0020D35D1497CE0114881FE8DB6A308BEF629AF6" : 0,
     "A815534DE28A43757D6F73F934A957BE0299AF96" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6345C9FE-B00D-434C-8F8D-0D6E46D2E6DA",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "320AF507E1A3D96663D4A50D4EB5D9991968E65B" : "Build-in-Progress-iOS-App",
+    "0020D35D1497CE0114881FE8DB6A308BEF629AF6" : "BiP-Public-iOS\/",
     "A815534DE28A43757D6F73F934A957BE0299AF96" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "BiP",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BIP\/BiP.xcworkspace",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ttseng\/Build-in-Progress-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0020D35D1497CE0114881FE8DB6A308BEF629AF6"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LLK\/Build-in-Progress-iOS-App",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
